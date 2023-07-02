@@ -19,7 +19,7 @@ npm
 No seu terminal dê o comando:
 
 ```
-git clone 
+git clone https://github.com/willyanmiranda/fpass-test-will.git
 ```
 
 E depois:
