@@ -9,7 +9,7 @@ const Description = () => {
         <App>
             <Header />
             <AppBody>
-                <AppContent>
+                <AppContent> 
                     <DescriptionCharacter />
                 </AppContent>
             </AppBody>

@@ -14,11 +14,20 @@ export const App = styled.div`
     color: #fff;
     -webkit-box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.5);
             box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.5);
+
+    @media (max-width: 600px){
+        width: 100%;
+        padding: 2rem;
+        margin: 0;
+    }
 `;
 
 export const AppBody = styled.div`
    margin-top: 4rem;
    height: 600px;
+   @media (max-width: 600px){
+        height: 100%;
+    }
 `;
 
 export const AppContent = styled.div`
