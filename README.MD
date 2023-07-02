@@ -2,7 +2,7 @@
 
 Teste para a empresa Fpass utilizando a api da  Marvel Comics [Marvel comics](https://developer.marvel.com/)
 
-Projeto online https://marvel-app-flame.vercel.app/
+Projeto online https://marvel-teste-will.netlify.app/
 ![print marvel app](./src/assets/images/doc/print-marvel-app-.png)
 
 
@@ -19,7 +19,7 @@ npm
 No seu terminal dê o comando:
 
 ```
-git clone 
+git clone https://github.com/willyanmiranda/fpass-test-will.git
 ```
 
 E depois:
